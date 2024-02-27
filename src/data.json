@@ -1,0 +1,162 @@
+{
+  "hero_title": "ROYAL RANGERS",
+  "hero_subtitle": "41. přední hlídka Zábřeh",
+  "meeting_date": "pátek 16:00",
+  "main_tel": "+420 732 507 855",
+  "address": "Sušilova 58, 789 01 Zábřeh",
+  "about_us_title": "JSME ROYAL RANGERS",
+  "about_us_text": "Royal Rangers je mezinárodní křesťanská organizace pro děti a mládež, která v ČR působí od počátku 90. let. Její oddíly se nazývají přední hlídky. V Zábřehu byla taková hlídka založena v listopadu 2006 jakožto 41. přední hlídka Royal Rangers v ČR. Scházíme se každý pátek od 16.00 do 18.00 v naší klubovně v klubovně v budově Apoštolské církve. Na každé schůzce se dovídáme o poselství Bible pro nás, hrajeme zajímavé hry a učíme se dovednosti jako uzlování, orientace v přírodě, luštění šifer či zdravověda. To všechno si děti mohou prakticky vyzkoušet také na výpravách, víkendovkách a táborech.",
+  "verse_1": "Neboť Bůh tak miloval svět, že dal svého jednorozeného Syna, aby žádný, kdo v něj věří, nezahynul, ale měl věčný život.",
+  "upcoming_events_title": "NADCHÁZEJÍCÍ AKCE",
+  "upcoming_events": [
+    {
+      "image": "/nacvik_ringa.jpg",
+      "title": "Krajský Nácvik Ringa",
+      "subtitle": "Krajský nácvik před RingoTurnajem.",
+      "data": [
+        {
+          "title": "Datum",
+          "text": "12. -  14. 4."
+        },
+        {
+          "title": "Cena",
+          "text": "500 Kč"
+        }
+      ],
+      "button_text": "Přihláška",
+      "url": "https://forms.gle/NGKqshPJDCmHdmCV8"
+    },
+    {
+      "image": "/prihlaska_rok.png",
+      "title": "Přihláška na školní rok 2023/2024",
+      "subtitle": "Přihláška je na celý školní rok a pokrývá skoro všechny potřeby pravidelných schůzek.",
+      "data": [
+        {
+          "title": "Datum",
+          "text": "2023 - 2024"
+        },
+        {
+          "title": "Cena",
+          "text": "300 Kč"
+        }
+      ],
+      "button_text": "Přihláška",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSes3agqBqWgPUkm2kpa0BA5yahVjlB-nakgKBOwiIvYgHVuNA/viewform"
+    },
+    {
+      "image": "/hostejn.jpg",
+      "title": "Jarní víkendovka v Hoštejně",
+      "subtitle": "Jarní víkendovka Royal Rangers Zábřeh",
+      "data": [
+        {
+          "title": "Datum",
+          "text": "15 - 17. 3."
+        },
+        {
+          "title": "Cena",
+          "text": "500 Kč"
+        }
+      ],
+      "button_text": "Přihláška",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSenrn9npt-IgKJN7j64ivZYi4LfNyaxXQjbcJlq8E1QZ2uiWw/viewform"
+    }
+  ],
+  "verse_2": "Ve všem dělám druhým to, co chci, aby oni dělali mně.",
+  "leaders_title": "TÝM VEDOUCÍCH",
+  "leaders": [
+    {
+      "image": "/leaders/jakub-pohanka.jpg",
+      "name": "Jakub Pohanka",
+      "post": "HLAVNÍ VEDOUCÍ",
+      "description": "Velitel, odborník na sociální sítě, zkušený organizátor táborů a šifrovacích her.",
+      "links": {
+        "facebook": "https://www.facebook.com/kuba.pohanka",
+        "whatsapp": "https://wa.me/420732507855",
+        "email": "mailto:jakub.pohanka@gmail.com"
+      },
+      "tel": "+420 732 507 855"
+    },
+    {
+      "image": "/leaders/misa-srokova.jpg",
+      "name": "Míša Sroková",
+      "post": "VEDOUCÍ",
+      "description": "Royalistka celým srdcem od doby, kdy byla dítě. Největší pracant naší přední hlídky.",
+      "links": {
+        "email": "mailto:misasrokova@seznam.cz"
+      },
+      "tel": "+420 731 252 868"
+    },
+    {
+      "image": "/leaders/marketa-heclova.jpg",
+      "name": "Markéta Heclová",
+      "post": "JUNIORSKÁ VEDOUCÍ",
+      "description": "Vedoucí s neotřelými nápady, stálice a velká opora royalovských schůzek.",
+      "links": {
+        "email": "mailto:heclova.marketa1@gmail.com"
+      },
+      "tel": "+420 736 618 263"
+    },
+    {
+      "image": "/leaders/matthew-sivak.jpg",
+      "name": "Matthew Sivák",
+      "post": "JUNIORSKÝ VEDOUCÍ",
+      "description": "Něco určitě umí",
+      "links": {
+        "email": "mailto:matthew@thesivak.net"
+      },
+      "tel": "+420 731 252 868"
+    },
+    {
+      "image": "/leaders/ondrej-mlcoch.jpg",
+      "name": "Ondřej Mlčoch",
+      "post": "JUNIORSKÝ VEDOUCÍ",
+      "description": "Taky určitě něco umí",
+      "links": {
+        "email": "mailto:ondramlcoch07@gmail.com"
+      },
+      "tel": "+420 734 369 368"
+    },
+    {
+      "image": "/leaders/ondrej-reichel.jpg",
+      "name": "Ondřej Reichel",
+      "post": "JUNIORSKÝ VEDOUCÍ",
+      "description": "Možná taky něco umí",
+      "links": {},
+      "tel": "+420 778 261 906"
+    }
+  ],
+  "verse_3": "„Jak vidíte, nezmocnilo se vás pokušení, které by pro lidi nebylo běžné. Ale Bůh je věrný! Nedovolí, abyste byli pokoušeni nad své možnosti; uprostřed zkoušky vám poskytne východisko, abyste mohli obstát.“",
+  "footer": {
+    "title": "Royal Rangers",
+    "text_group_1": {
+      "line_1": {
+        "text": "Adresa: Sušilova 58, 789 01 Zábřeh"
+      },
+      "line_2": {
+        "url": "https://www.kb.cz/cs/transparentni-ucty/107-8553150267",
+        "text": "Veřejný účet: 107-8553150267/0100"
+      }
+    },
+    "text_group_2": {
+      "line_1": {
+        "url": "mailto:41ph@royalrangers.cz",
+        "text": "E-mail: 41ph@royalrangers.cz"
+      },
+      "line_2_group": {
+        "left": {
+          "url": "tel:+420732507855",
+          "text": "Tel.: +420 732 507 855"
+        },
+        "right": {
+          "text": "IČ: 75104245"
+        }
+      }
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/groups/495284997175605/",
+      "instagram": "https://www.instagram.com/rrzabreh/",
+      "youtube": "https://www.youtube.com/user/41PHRoyalRangers"
+    },
+    "map_link": "https://maps.google.com/maps?q=Su%C5%A1ilova%2058,%20789%2001%20Z%C3%A1b%C5%99eh&t=&z=13&ie=UTF8&iwloc=&output=embed/"
+  }
+}

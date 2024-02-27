@@ -1,0 +1,82 @@
+{
+  ".svelte-kit/generated/server/internal.js": {
+    "file": "internal.js",
+    "src": ".svelte-kit/generated/server/internal.js",
+    "isEntry": true,
+    "imports": [
+      "_internal.js"
+    ]
+  },
+  "_internal.js": {
+    "file": "chunks/internal.js",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_ssr.js": {
+    "file": "chunks/ssr.js"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/server/index.js": {
+    "file": "index.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/server/index.js",
+    "isEntry": true,
+    "imports": [
+      "_internal.js",
+      "_ssr.js"
+    ]
+  },
+  "src/assets/favicon.ico": {
+    "file": "_app/immutable/assets/favicon.DQCtSpip.ico",
+    "src": "src/assets/favicon.ico"
+  },
+  "src/assets/images/royal-rangers-about-background.jpg": {
+    "file": "_app/immutable/assets/royal-rangers-about-background.DZ5VrAOF.jpg",
+    "src": "src/assets/images/royal-rangers-about-background.jpg"
+  },
+  "src/assets/images/verse-background.webp": {
+    "file": "_app/immutable/assets/verse-background.BhULuAx1.webp",
+    "src": "src/assets/images/verse-background.webp"
+  },
+  "src/routes/+layout.svelte": {
+    "file": "entries/pages/_layout.svelte.js",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_layout.JDtybQl8.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/favicon.DQCtSpip.ico"
+    ]
+  },
+  "src/routes/+layout.ts": {
+    "file": "entries/pages/_layout.ts.js",
+    "src": "src/routes/+layout.ts",
+    "isEntry": true
+  },
+  "src/routes/+page.svelte": {
+    "file": "entries/pages/_page.svelte.js",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.CYLFO57C.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/verse-background.BhULuAx1.webp",
+      "_app/immutable/assets/royal-rangers-about-background.DZ5VrAOF.jpg"
+    ]
+  }
+}

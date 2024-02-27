@@ -1,0 +1,31 @@
+@import url('https://fonts.cdnfonts.com/css/montserrat');
+@import url('https://fonts.cdnfonts.com/css/ubuntu');
+
+:root {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  @apply text-3xl;
+}
+
+h2 {
+  @apply text-2xl;
+}
+
+h3 {
+  @apply text-xl;
+}
+
+h4 {
+  @apply text-lg;
+}
